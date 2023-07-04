@@ -1,0 +1,4 @@
+<template>
+    Tour view
+    
+</template>
